@@ -15,7 +15,7 @@ A comprehensive text summarization system that combines extractive and abstracti
   
 ---
 
-## 🖼️ UI Preview
+## 🖼️ OUTPUT Preview
 
 ![Screenshot of Email Sentiment Analysis interface](assets/ss2.png)  
 ![Screenshot of Email Sentiment Analysis interface](assets/ss1.png)  
