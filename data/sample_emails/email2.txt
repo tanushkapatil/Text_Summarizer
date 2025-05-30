@@ -1,0 +1,28 @@
+Subject: Urgent: Client Complaint Follow-up
+
+Team,
+
+I'm writing to bring to your attention a serious complaint we received this morning from our premium client, TechGlobal Inc. 
+
+The issues raised are concerning:
+1. Their last invoice contained several billing errors totaling approximately $12,000
+2. The support team took 72 hours to respond to their critical outage ticket
+3. The account manager has been unresponsive for over a week
+
+This is completely unacceptable for a client of this caliber. They're threatening to terminate their $2M annual contract if we don't:
+- Immediately correct the invoice errors
+- Provide a 15% discount on this quarter's invoice
+- Assign a new account manager
+- Implement a SLA with guaranteed response times
+
+Action items:
+1. Finance team: Audit and correct the invoice by EOD today
+2. Support lead: Review the ticket response process and implement improvements
+3. Sales director: Personally reach out to the client by 3PM today
+4. HR: Meet with the current account manager to understand the situation
+
+I want a full report on corrective actions by tomorrow at 10AM. Let's not lose this important client due to preventable mistakes.
+
+Regards,
+Sarah Johnson
+Customer Success Director
