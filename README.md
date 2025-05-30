@@ -2,6 +2,8 @@
 
 A comprehensive text summarization system that combines extractive and abstractive techniques with sentiment analysis to provide "summary + tone" reports.
 
+---
+
 ## Features
 
 - **Extractive Summarization**: Uses TextRank algorithm to identify and extract key sentences
@@ -10,6 +12,14 @@ A comprehensive text summarization system that combines extractive and abstracti
 - **Sentiment Analysis**: Determines the tone of the document (positive/negative with confidence)
 - **File Processing**: Can process both direct text input and text files
 - **Customizable**: Adjust summary length and choose between different summarization approaches
+  
+---
+
+## 🖼️ UI Preview
+
+![Screenshot of Email Sentiment Analysis interface](assets/ss1.png)  
+![Screenshot of Email Sentiment Analysis interface](assets/ss2.png)  
+
 
 ## Installation
 
