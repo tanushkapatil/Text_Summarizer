@@ -25,5 +25,5 @@ A comprehensive text summarization system that combines extractive and abstracti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text-summarizer.git
+   git clone https://github.com/tanushkapatil/Text_Summarizer.git
    cd text-summarizer
